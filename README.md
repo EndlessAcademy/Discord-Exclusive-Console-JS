@@ -10,8 +10,8 @@
 
 ## Scripts
 
-- `friend_invitelink.js`: Generate a friend invite link
-- `clientside_nitro.js`: Spoof the client and enable client side Discord Nitro
+- `Friend Invite Link`: Generate a friend invite link
+- `Client Side Nitro JavaScript`: Spoof the client and enable client side Discord Nitro
 <header>
   
 # Friend Invite Link

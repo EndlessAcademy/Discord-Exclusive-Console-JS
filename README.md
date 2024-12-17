@@ -12,3 +12,26 @@
 
 - `friend_invitelink.js`: Generate a friend invite link
 - `clientside_nitro.js`: Spoof the client and enable client side Discord Nitro
+<header>
+  
+# Friend Invite Link
+
+<details>
+  <summary>Expand</summary>
+  
+  ```js
+webpackChunkdiscord_app.push([[[Math.random()]],{},q=>Object.values(q.c).find(e=>e.exports?.Z?.createFriendInvite).exports.Z.createFriendInvite().then(console.log)])
+  ```
+</details>
+
+  # Client Side Nitro JavaScript
+
+<details>
+  <summary>Expand</summary>
+  
+  ```js
+webpackChunkdiscord_app.push([[[Math.random()]],{},q=>Object.values(q.c).find(e=>e.exports?.default?.getCurrentUser).exports.default.getCurrentUser().premiumType=2])
+  ```
+</details>
+
+</header>

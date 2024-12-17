@@ -6,7 +6,7 @@
 
 **Disclaimer**: The information provided in this section is obtained through reverse engineering and NOT verified for it's accuracy. Therefore it might be outdated as well.
 
-My collection of scripts for Discord.
+**My Exclusive Console JS For Discord**
 
 ## Scripts
 
